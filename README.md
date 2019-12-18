@@ -1,6 +1,6 @@
 # CentOS/RedHat 学习笔记
 
-![1533473915575.png](image/1533473915575.png)
+![20191218_155203_30](image/20191218_155203_30.png)
 
 ## 仓库介绍
 
@@ -22,8 +22,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ## 目录
 
-* [起步](docs/起步.md)
-    * [关于版本控制](docs/起步/关于版本控制.md)
+
 
 
 ## 总结
