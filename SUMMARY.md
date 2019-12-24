@@ -12,3 +12,5 @@
 * [rpm包构建](docs/rpm包构建.md)
     * [rpm包结构](docs/rpm包结构.md)
     * [mock编译](docs/rpm包构建/mock编译.md)
+    * [rpmbuild编译](docs/rpm包构建/rpmbuild编译.md)
+
